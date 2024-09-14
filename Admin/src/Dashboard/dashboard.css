@@ -1,0 +1,47 @@
+.card-res {
+  background-color: #e8f0fe;
+}
+
+.myClass {
+  font-size: 35px !important;
+}
+
+.new-nav {
+  border: 1px solid white;
+  border-radius: 20px;
+}
+
+.card-animate :hover {
+  background-color: #185abc;
+  border-radius: 15px;
+}
+
+.new-class {
+  color: rgb(16 118 238);
+}
+
+.card-animate:hover *,
+.card-animate:hover div,
+.card-animate:hover h2,
+.card-animate:hover p,
+.card-animate:hover .fw-semibold fs-16 text-primary mb-0 {
+  color: white;
+}
+
+.card-hover:hover .avatar-title {
+  background-color: white;
+  /* Assuming you want to change the background color of the avatar icon too */
+  /* color: darkblue; Assuming you want to change the color of the avatar icon too     */
+}
+
+/* .abc1111{
+    font-family: cursive;
+} */
+
+.new-class:hover {
+  color: white;
+}
+
+.bottom-margin {
+  margin-bottom: 25px;
+}
